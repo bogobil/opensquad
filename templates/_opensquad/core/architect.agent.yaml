@@ -474,6 +474,14 @@ agent:
          - Add checkpoints at user decision points
          - Include on_reject loops from reviewer back to writer
 
+      > ⚠️ PATH RULE — agent step outputFile: The `outputFile` of a researcher step
+      > (and ANY agent step) MUST always use `squads/{code}/output/{filename}` as its
+      > path. NEVER use `pipeline/data/` or `pipeline/` for agent step outputFiles.
+      > The `pipeline/data/` directory is ONLY for reference materials created at squad
+      > build time — it is NOT for pipeline execution outputs.
+      > CORRECT: `squads/{code}/output/research-brief.md`
+      > WRONG:   `squads/{code}/pipeline/data/research-brief.md`
+
       3. Research focus checkpoint (MANDATORY for all squads with a researcher):
          - ALWAYS generate a `type: checkpoint` step immediately BEFORE every researcher step.
          - Researchers run as subagents — they CANNOT ask the user questions interactively.
