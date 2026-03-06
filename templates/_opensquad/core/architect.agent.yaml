@@ -1069,9 +1069,12 @@ agent:
          approve the preceding agent's output before the visual/publish step runs
       5. Re-validate Gate 2b. Max 2 fix attempts — after that, present to user for manual decision.
 
-      #### Gate 3: Pipeline Coherence (ADVISORY)
+      #### Gate 3: Pipeline Coherence (ADVISORY — except where noted)
 
       Verify:
+      - [ ] **[BLOCKING]** No agent step (non-checkpoint) has `outputFile` pointing to
+            `pipeline/data/` or `pipeline/`. If this check fails, correct the offending
+            step's `outputFile` to `squads/{code}/output/{filename}` before finalizing.
       - [ ] Each step's outputFile matches the next step's inputFile
       - [ ] Checkpoints exist before user decision points
       - [ ] Review step has on_reject pointing to writer step
