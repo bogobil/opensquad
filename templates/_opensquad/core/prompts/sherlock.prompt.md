@@ -8,6 +8,15 @@ When a user provides reference profile URLs during squad discovery ("follow the 
 
 The investigation output feeds directly into squad data files — making agents, frameworks, quality criteria, and voice guidance grounded in real high-performing content rather than generic best practices.
 
+---
+
+> **Execution context:** Sherlock runs as a background subagent via the Task tool.
+> All configuration (platform, handle, depth) must be passed as parameters by the
+> Architect — do NOT ask interactive questions. If a parameter is missing, use
+> sensible defaults rather than prompting.
+
+---
+
 ## How It Works
 
 1. The Architect receives reference URLs from the user during Phase 1 Discovery (question 5)
