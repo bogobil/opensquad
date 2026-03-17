@@ -51,9 +51,9 @@ Before starting execution:
         - `name`: use the `displayName` column
         - `icon`: use the `icon` column
      b. Assign desk positions by agent order (0-based index):
-        - `col = (index % 2) + 1`
-        - `row = floor(index / 2) + 1`
-        (index 0 → col:1 row:1, index 1 → col:2 row:1, index 2 → col:1 row:2, etc.)
+        - `col = (index % 3) + 1`
+        - `row = floor(index / 3) + 1`
+        (index 0 → col:1 row:1, index 1 → col:2 row:1, index 2 → col:3 row:1, index 3 → col:1 row:2, etc.)
      c. Read `squads/{name}/squad.yaml` — count items in `pipeline.steps` for `total`
      d. Write `squads/{name}/state.json` with the Write tool:
         ```json
@@ -192,6 +192,20 @@ Apply to every path that was transformed in Step 1:
    If the same file path is written twice within a step, both writes go to the same versioned path (the second write overwrites the first within that version).
 
 Apply this transformation consistently for every write in this step.
+
+### Input Path Resolution
+
+Before reading any `inputFile` declared in a step's frontmatter:
+
+1. If the path starts with `squads/{name}/output/`, insert `{run_id}/` immediately after `output/`
+   - Example: `squads/asufarma-edu/output/research-results.md` → `squads/asufarma-edu/output/2026-03-17-143022/research-results.md`
+2. Then resolve the version: look for the LATEST version folder in that location:
+   ```bash
+   ls -1 squads/{name}/output/{run_id}/{relative-group}/ 2>/dev/null | grep -E '^v[0-9]+$' | sort -V | tail -1
+   ```
+   - If a version exists → read from `{path}/{latest-version}/{filename}`
+   - If no version folder exists → read from the path as-is (backward compatible)
+3. If the resolved file does not exist → **ERROR**: "Input file not found: {resolved path}. Check the previous step's outputFile."
 
 ### For each pipeline step:
 
