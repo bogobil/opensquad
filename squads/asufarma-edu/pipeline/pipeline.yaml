@@ -30,13 +30,13 @@ pipeline:
       name: "review"
       agent: reviewer
       execution: inline
-      file: steps/step-06-review.md
+      file: steps/step-05-review.md
 
     - step: "06"
       name: "design-visuals"
       agent: designer
       execution: inline
-      file: steps/step-05-design-visuals.md
+      file: steps/step-06-design-visuals.md
 
     - step: "07"
       name: "final-output"

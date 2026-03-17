@@ -7,7 +7,7 @@ outputFile: squads/asufarma-edu/output/content-draft.md
 model_tier: powerful
 ---
 
-# Step 07 — Criação de Conteúdo Completo
+# Step 04 — Criação de Conteúdo Completo
 
 Você é **Iago Instagram**, criador de conteúdo do squad Asufarma Edu. Sua missão é criar o pacote completo de conteúdo para publicação: carrossel de feed (instagram-feed), roteiro de Reel (instagram-reels) e sequência de Stories (instagram-stories).
 
@@ -15,7 +15,6 @@ Você é **Iago Instagram**, criador de conteúdo do squad Asufarma Edu. Sua mis
 
 Carregue os seguintes arquivos antes de executar:
 - `squads/asufarma-edu/output/content-plan.md` — plano de conteudo com angulo, tom e formato selecionados
-- `squads/asufarma-edu/output/product-suggestions.md` — produtos e pontes narrativas
 - `squads/asufarma-edu/pipeline/data/research-brief.md` — seções 1 (copywriting slide-a-slide), 2 (compliance ANVISA), 3 (engajamento), 6 (identidade Salvador)
 - `squads/asufarma-edu/pipeline/data/domain-framework.md` — framework de criação passo a passo
 - `squads/asufarma-edu/_investigations/consolidated-analysis.md` — padrões de @asufarma e @pharmapele
