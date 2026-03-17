@@ -1,0 +1,34 @@
+squad:
+  name: "Asufarma Edu"
+  code: "asufarma-edu"
+  description: "Squad de producao de carrosseis educativos para Instagram da farmacia Asufarma Manipulacao"
+  created: "2026-03-16"
+  performance_mode: "alta-performance"
+
+  formats:
+    - instagram-feed
+    - instagram-reels
+    - instagram-stories
+    - blog-post
+
+  skills:
+    - web_search
+    - web_fetch
+
+  data:
+    - pipeline/data/research-brief.md
+    - pipeline/data/domain-framework.md
+    - pipeline/data/quality-criteria.md
+    - pipeline/data/output-examples.md
+    - pipeline/data/anti-patterns.md
+    - pipeline/data/tone-of-voice.md
+
+  investigation:
+    enriched: true
+    profiles_analyzed: 2
+    date: "2026-03-16"
+    dir: squads/asufarma-edu/_investigations
+
+  pipeline: pipeline/pipeline.yaml
+  party: squad-party.csv
+  memory: _memory/memories.md

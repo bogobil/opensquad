@@ -1,0 +1,52 @@
+pipeline:
+  name: "Asufarma Edu Pipeline v2"
+  version: "2.0.0"
+
+  steps:
+    - step: "01"
+      name: "topic-input"
+      type: checkpoint
+      file: steps/step-01-topic-input.md
+
+    - step: "02"
+      name: "research"
+      agent: researcher
+      execution: subagent
+      file: steps/step-02-research.md
+
+    - step: "03"
+      name: "auto-select-and-plan"
+      agent: instagram-creator
+      execution: inline
+      file: steps/step-03-auto-select-and-plan.md
+
+    - step: "04"
+      name: "create-content"
+      agent: instagram-creator
+      execution: inline
+      file: steps/step-07-create-content.md
+
+    - step: "05"
+      name: "design-visuals"
+      agent: designer
+      execution: inline
+      file: steps/step-05-design-visuals.md
+
+    - step: "06"
+      name: "review"
+      agent: reviewer
+      execution: inline
+      file: steps/step-09-review.md
+
+    - step: "07"
+      name: "final-output"
+      type: checkpoint
+      file: steps/step-07-final-output.md
+
+  checkpoints:
+    - step-01-topic-input
+    - step-07-final-output
+
+  on_reject:
+    from: step-06-review
+    to: step-04-create-content

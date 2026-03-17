@@ -1,0 +1,6 @@
+id,name,title,icon,path,execution
+researcher,"Raquel Referencia","Pesquisadora",magnifying_glass,./agents/researcher.agent.md,subagent
+product-specialist,"Pedro Produto","Especialista de Produtos",pill,./agents/product-specialist.agent.md,inline
+instagram-creator,"Iago Instagram","Criador de Conteudo",camera,./agents/instagram-creator.agent.md,inline
+reviewer,"Vera Veredito","Revisora",checkmark,./agents/reviewer.agent.md,inline
+designer,"Diana Design","Designer",art,./agents/designer.agent.md,inline

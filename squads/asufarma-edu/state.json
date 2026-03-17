@@ -1,0 +1,14 @@
+{
+  "squad": "asufarma-edu",
+  "status": "completed",
+  "step": { "current": 10, "total": 10, "label": "final-approval" },
+  "agents": [
+    { "id": "researcher", "name": "Raquel Referencia", "icon": "🔍", "status": "done", "deliverTo": null, "desk": { "col": 1, "row": 1 } },
+    { "id": "product-specialist", "name": "Pedro Produto", "icon": "💊", "status": "done", "deliverTo": null, "desk": { "col": 2, "row": 1 } },
+    { "id": "instagram-creator", "name": "Iago Instagram", "icon": "📸", "status": "done", "deliverTo": null, "desk": { "col": 3, "row": 1 } },
+    { "id": "reviewer", "name": "Vera Veredito", "icon": "✅", "status": "done", "deliverTo": null, "desk": { "col": 1, "row": 2 } }
+  ],
+  "handoff": { "from": "reviewer", "to": "user", "message": "Conteudo final entregue com ajustes aplicados. Pronto para revisao dos criativos.", "completedAt": "2026-03-16T09:40:00Z" },
+  "startedAt": "2026-03-16T09:26:47Z",
+  "updatedAt": "2026-03-16T09:40:00Z"
+}
