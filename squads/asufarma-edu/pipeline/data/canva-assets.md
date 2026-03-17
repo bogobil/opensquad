@@ -45,8 +45,8 @@ Tambem deve sempre usar `brand_kit_id: "kAG4986LZbc"`.
 - Workflow: local file -> ImgBB upload -> HTTPS URL -> Canva upload-asset-from-url
 
 ## Arquivos Locais
-- Produtos: /Users/admin/Documents/Asufarma/Produtos/
-- Logos: /Users/admin/Documents/Asufarma/Branding/logos/
-- Simbolos: /Users/admin/Documents/Asufarma/Branding/simbolos/
-- Grafismos: /Users/admin/Documents/Asufarma/Branding/grafismos/
-- Posts anteriores: /Users/admin/Documents/Asufarma/Posts-Feed/
+- Produtos: /Users/admin/Documents/Volare/Produtos/
+- Logos: /Users/admin/Documents/Volare/Branding/logos/
+- Simbolos: /Users/admin/Documents/Volare/Branding/simbolos/
+- Grafismos: /Users/admin/Documents/Volare/Branding/grafismos/
+- Posts anteriores: /Users/admin/Documents/Volare/Posts-Feed/
