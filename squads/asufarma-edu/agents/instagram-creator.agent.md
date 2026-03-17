@@ -4,12 +4,6 @@ name: "Iago Instagram"
 icon: "📸"
 version: "1.0.0"
 execution: inline
-tasks:
-  - squads/asufarma-edu/agents/instagram-creator/tasks/generate-angles.md
-  - squads/asufarma-edu/agents/instagram-creator/tasks/create-instagram-feed.md
-  - squads/asufarma-edu/agents/instagram-creator/tasks/create-instagram-reels.md
-  - squads/asufarma-edu/agents/instagram-creator/tasks/create-instagram-stories.md
-  - squads/asufarma-edu/agents/instagram-creator/tasks/optimize-content.md
 ---
 
 ## Persona
