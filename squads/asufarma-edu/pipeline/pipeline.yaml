@@ -48,5 +48,5 @@ pipeline:
     - step-07-final-output
 
   on_reject:
-    from: step-06-review
-    to: step-04-create-content
+    from: review
+    to: create-content
