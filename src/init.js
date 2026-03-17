@@ -4,7 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { execSync } from 'node:child_process';
 import { createPrompt } from './prompt.js';
 import { loadLocale, t } from './i18n.js';
-import { listAvailable, installSkill } from './skills.js';
+import { listAvailable, installSkill, getSkillMeta } from './skills.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const TEMPLATES_DIR = join(__dirname, '..', 'templates');
@@ -124,6 +124,10 @@ export async function loadSavedLocale(targetDir) {
 async function installAllSkills(targetDir) {
   const available = await listAvailable();
   for (const id of available) {
+    if (id === 'opensquad-skill-creator') continue;
+    const meta = await getSkillMeta(id);
+    if (meta && (meta.type === 'mcp' || meta.type === 'hybrid')) continue;
+    if (meta?.env?.length > 0) continue;
     await installSkill(id, targetDir);
     console.log(`  ${t('createdFile', { path: `skills/${id}/SKILL.md` })}`);
   }
