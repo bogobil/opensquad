@@ -37,7 +37,7 @@ Crie um carrossel de 8 a 10 slides seguindo o framework slide-a-slide:
 | 7 | Virada/Cliffhanger | Informação surpreendente. Termina com "→" ou "mas tem um detalhe importante" |
 | 8 | Solução/Produto | Ponte narrativa produto. Tom de empoderamento, não de venda. |
 | 9 | Disclaimer + CTA | Orientação regulatória + CTA específico (keyword comment, save, DM) |
-| 10 | Fechamento visual | Identidade Asufarma. "Cuida de você. 💜 @asufarma" |
+| 10 | Fechamento visual | Identidade Asufarma. "Cuida de você. 💙 @asufarma" |
 
 Para cada slide, entregue:
 - **Texto principal:** copy do slide (como apareceria no design)
@@ -216,7 +216,7 @@ O magnésio glicinato absorve até 80% melhor.
 
 É a forma que seu corpo realmente aproveita — e a que a Asufarma manipula com a dose certa pra você.
 
-Porque saúde personalizada começa no que você absorve de verdade. 💜
+Porque saúde personalizada começa no que você absorve de verdade. 💙
 **Nota de design:** Foto do produto manipulado em destaque. Fundo verde-oliva. Texto branco.
 
 ### Slide 9 — Disclaimer + CTA
@@ -229,7 +229,7 @@ Comenta **MAGNÉSIO** aqui embaixo que a gente te explica tudo sobre dosagem, co
 ### Slide 10 — Fechamento
 **Texto:**
 Asufarma Manipulação
-Salvador, BA 💜
+Salvador, BA 💙
 
 @asufarma
 WhatsApp na bio 📲
@@ -238,7 +238,7 @@ WhatsApp na bio 📲
 ---
 
 ### Caption do Post
-Cólica. Irritabilidade. Retenção de líquido. Todo mês. E se eu te dissesse que pode não ser "do seu jeito"? 💜
+Cólica. Irritabilidade. Retenção de líquido. Todo mês. E se eu te dissesse que pode não ser "do seu jeito"? 💙
 
 Desliza pra descobrir o que o magnésio tem a ver com a sua TPM — e por que a forma do suplemento importa mais do que a dose.
 
@@ -258,7 +258,7 @@ Desliza pra descobrir o que o magnésio tem a ver com a sua TPM — e por que a 
 **9-13s:** "Sem magnésio, seu humor cai, seus músculos ficam tensos, e o inchaço aumenta."
 **14-18s:** "Mas atenção: não é qualquer magnésio. O óxido que vende em farmácia absorve só 4%."
 **19-25s:** "O glicinato absorve até 80% melhor — e a Asufarma manipula na dose certa pra você."
-**26-30s:** "Comenta MAGNÉSIO aqui embaixo. A gente te explica o que faz sentido pro seu caso. 💜"
+**26-30s:** "Comenta MAGNÉSIO aqui embaixo. A gente te explica o que faz sentido pro seu caso. 💙"
 
 **Áudio sugerido:** Áudio suave e feminino trending, ou trilha de fundo "bem-estar" sem letra
 **Legenda na tela:** Exibir o texto de cada bloco em cards sobrepostos — fontes grandes, sem fundo
@@ -271,7 +271,7 @@ Desliza pra descobrir o que o magnésio tem a ver com a sua TPM — e por que a 
 ### Frame 1 — Teaser
 **Visual:** Primeira imagem do carrossel com overlay semitransparente
 **Texto:** "Sabia que sua TPM pode ter um vilão escondido? 👀"
-**Sticker:** Enquete — "Você toma magnésio?" / Sim 💜 / Não ainda
+**Sticker:** Enquete — "Você toma magnésio?" / Sim 💙 / Não ainda
 
 ### Frame 2 — Dado-chave
 **Visual:** Fundo escuro com número grande centralizado
@@ -285,7 +285,7 @@ Desliza pra descobrir o que o magnésio tem a ver com a sua TPM — e por que a 
 
 ### Frame 4 — Produto em destaque
 **Visual:** Foto da embalagem do magnésio glicinato manipulado
-**Texto:** "Dose certa. Forma certa. Do jeito que só a Asufarma faz. 💜"
+**Texto:** "Dose certa. Forma certa. Do jeito que só a Asufarma faz. 💙"
 **Sticker:** DM "Chama aqui →"
 
 ### Frame 5 — CTA para o Feed

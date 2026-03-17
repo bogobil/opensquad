@@ -84,7 +84,7 @@ stories_sequence:
 
     - frame_number: 5
       type: product
-      copy: "Corebiome: equilibrio do microbioma. Do seu jeito. 💜"
+      copy: "Corebiome: equilibrio do microbioma. Do seu jeito. 💙"
       visual_direction: "Foto do produto Corebiome em destaque. Fundo bege. Badge 'Manipulacao Personalizada' em verde oliva. Logo Asufarma. Texto do slogan em azul marinho pequeno no rodape."
       sticker: none
       sticker_content: null

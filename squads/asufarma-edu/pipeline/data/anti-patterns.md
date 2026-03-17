@@ -92,7 +92,7 @@ A voz da Asufarma é acolhedora, não forçadamente descolada.
 
 **AP-18: Emoji Excessivo ou Inadequado**
 Usar emojis de forma aleatória em todo parágrafo ou usar emojis que não combinam com o tom de saúde.
-O emoji assinatura é o 💜. Use com propósito, não como pontuação.
+O emoji assinatura é o 💙 (coracao AZUL). Use com propósito, não como pontuação.
 
 **AP-19: Ausência de Personalidade**
 Conteúdo poderia ter sido gerado por qualquer farmácia do Brasil.

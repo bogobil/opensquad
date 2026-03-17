@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Assufarma demonstrates a sophisticated educational and lifestyle-focused content strategy centered on women's health, self-care, and customized pharmaceutical solutions. The brand combines emotional storytelling with health education, positioning customized formulas as personalized wellness solutions. Their carousel-dominant format maximizes engagement by layering motivational messaging, health facts, and clear calls-to-action. The consistent use of purple heart emojis and warm, inclusive copy establishes a caring, female-centric brand voice that prioritizes woman empowerment and holistic health.
+Assufarma demonstrates a sophisticated educational and lifestyle-focused content strategy centered on women's health, self-care, and customized pharmaceutical solutions. The brand combines emotional storytelling with health education, positioning customized formulas as personalized wellness solutions. Their carousel-dominant format maximizes engagement by layering motivational messaging, health facts, and clear calls-to-action. The consistent use of blue heart emojis and warm, inclusive copy establishes a caring, female-centric brand voice that prioritizes woman empowerment and holistic health.
 
 ---
 
@@ -122,7 +122,7 @@ Assufarma demonstrates a sophisticated educational and lifestyle-focused content
 
 ### Style Notes
 
-- **Emoji Usage:** Purple heart (💜) as signature brand emoji (100% of posts)
+- **Emoji Usage:** Blue heart (💙) as signature brand emoji (100% of posts)
 - **Typography:** Mix of capital letters for emphasis (DURMA EM 20 min, ÚLTIMAS UNIDADES)
 - **Line Breaks:** Generous line breaks for readability and emphasis
 - **Formality:** Shift from informal to clinical in disclaimers creates credibility contrast
@@ -196,11 +196,11 @@ Assufarma demonstrates a sophisticated educational and lifestyle-focused content
 
 ---
 
-### 3. Adopt Purple/Brand Color & Heart Emoji as Visual Signature
+### 3. Adopt Blue/Brand Color & Heart Emoji as Visual Signature
 
-**Action:** Match Assufarma's 💜 purple heart emoji in all squad outputs. This creates instant brand recognition and signals care/empowerment.
+**Action:** Match Assufarma's 💙 blue heart emoji in all squad outputs. This creates instant brand recognition and signals care/empowerment.
 
-**Implementation:** Add purple color palette to carousel designs; use heart emoji in all CTAs; create visual consistency across content pieces.
+**Implementation:** Add blue color palette to carousel designs; use heart emoji in all CTAs; create visual consistency across content pieces.
 
 ---
 

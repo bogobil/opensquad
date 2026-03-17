@@ -14,12 +14,12 @@ Content types: Physical store location posts (2), Educational health carousels (
 **URL:** https://www.instagram.com/p/DQ5eaTBEVoV/
 
 ### Caption
-Assufarma Assufarma | Unidade Pituba - Madison Plaza 💜
+Assufarma Assufarma | Unidade Pituba - Madison Plaza 💙
 
 Entre em contato através da nossa central de atendimento:
 (71) 99201-0285
 
-Por que a SUA farmácia deva ser do SEU jeito! 💜
+Por que a SUA farmácia deva ser do SEU jeito! 💙
 
 #Asufarma #farmacademanipulacao #formulas #medicamicaria
 
@@ -33,9 +33,9 @@ Por que a SUA farmácia deva ser do SEU jeito! 💜
 **URL:** https://www.instagram.com/p/DOEBdkGjqub/
 
 ### Caption
-Durante quase 30 anos nós fizemos parte de uma rede de franquia, mas hoje nos tornamos uma marca própria, a @asufarma 💜
+Durante quase 30 anos nós fizemos parte de uma rede de franquia, mas hoje nos tornamos uma marca própria, a @asufarma 💙
 
-Seguimos com o mesmo compromisso de sempre: Oferecer um atendimento profissional e de confiança, com fórmulas inovadoras, seguras e de alta qualidade, pensadas na sua saúde e no seu bem-estar! 💜
+Seguimos com o mesmo compromisso de sempre: Oferecer um atendimento profissional e de confiança, com fórmulas inovadoras, seguras e de alta qualidade, pensadas na sua saúde e no seu bem-estar! 💙
 
 Nós continuamos com o mesmo time e as nossas lojas físicas continuam nos mesmos endereços!
 
@@ -45,7 +45,7 @@ Nós continuamos com o mesmo time e as nossas lojas físicas continuam nos mesmo
 
 📞 Central de atendimento: (71)99201-0295 WhatsApp
 
-Por que a SUA farmácia deva ser do SEU jeito! 💜
+Por que a SUA farmácia deva ser do SEU jeito! 💙
 
 #Asufarma #FarmaciaDeManipulacao #Manipulacao #Salvador
 
@@ -63,12 +63,12 @@ Por que a SUA farmácia deva ser do SEU jeito! 💜
 **URL:** https://www.instagram.com/p/DOG9b5tkU6x/
 
 ### Caption
-Assufarma Assufarma | Unidade Salvador Shopping 💜
+Assufarma Assufarma | Unidade Salvador Shopping 💙
 
 Entre em contato através da nossa central de atendimento:
 (71) 99201-0295
 
-Por que a SUA farmácia deva ser do SEU jeito! 💜
+Por que a SUA farmácia deva ser do SEU jeito! 💙
 
 #Asufarma #FarmaciaDeManipulacao #Formulas #SalvadorShopping
 
@@ -82,13 +82,13 @@ Por que a SUA farmácia deva ser do SEU jeito! 💜
 **URL:** https://www.instagram.com/p/DVysXUiDEkR/
 
 ### Caption
-Cuidar de si não é egoísmo. É o primeiro passo para cuidar de quem você ama. 💜
+Cuidar de si não é egoísmo. É o primeiro passo para cuidar de quem você ama. 💙
 
 Quantas vezes você deixou sua saúde para depois? Quantas vezes disse "eu tô bem" quando não estava?
 
 Nesta semana da mulher, a Assufarma te lembra: você também merece atenção.
 
-Marque uma mulher que precisa ouvir isso hoje 💜
+Marque uma mulher que precisa ouvir isso hoje 💙
 
 #semadadamulher #autoconhecimento #saudedamulher #assufarma #saúdavel #CUIDADO #farmaciamanipulacao
 
@@ -123,7 +123,7 @@ E você merece ouvir-lo e ser cuidada.
 
 Ormoselle® é um nutracêutico natural para o equilíbrio na menopausa.
 
-Nesta semana da mulher, a Assufarma celebra todas as fases da vida feminina 💜
+Nesta semana da mulher, a Assufarma celebra todas as fases da vida feminina 💙
 
 Manipulado com receita médica. Consulte seu prescritor.
 
@@ -144,19 +144,19 @@ Manipulado com receita médica. Consulte seu prescritor.
 **URL:** https://www.instagram.com/p/DVn-Qw-jMmp/
 
 ### Caption
-Hoje celebramos você! 💜
+Hoje celebramos você! 💙
 
 Você que acorda cedo, cuida de tudo, resolve tudo e ainda encontra força pra sorrir no fim do dia.
 
 Você que às vezes esquece de si mesma porque está ocupada cuidando do mundo.
 
-A Assufarma sabe o quanto você é importante. É por isso que existe: para cuidar de quem cuida de todos 💜
+A Assufarma sabe o quanto você é importante. É por isso que existe: para cuidar de quem cuida de todos 💙
 
-Fórmulas personalizadas, feitas com ciência e carinho, pensadas para o seu corpo, sua rotina e sua saúde. Porque você merece se sentir bem de verdade 💜
+Fórmulas personalizadas, feitas com ciência e carinho, pensadas para o seu corpo, sua rotina e sua saúde. Porque você merece se sentir bem de verdade 💙
 
 Feliz Dia Internacional da Mulher.
 
-Da Assufarma, com muito amor, para você 💜
+Da Assufarma, com muito amor, para você 💙
 
 #assufarma #farmaciademanipulacao #salvador #socidadeomestrar #dossuquello
 
@@ -182,7 +182,7 @@ Alivios manipulados são formulados individualmente. Dose certa, objetivo certo,
 
 É sim que a Assufarma trabalha. Três unidades em Salvador prontas pra te atender.
 
-💜 CONSULTE SEMPRE O SEU NUTRICIONISTA 💜
+💙 CONSULTE SEMPRE O SEU NUTRICIONISTA 💙
 
 📱 Chama no link da bio
 
@@ -244,7 +244,7 @@ No dia seguinte? Leve, descansado, sem aquela cara de quem não dormiu.
 - Physical store location showcases
 - Company heritage and evolution messaging
 - Regular captions with calls-to-action (WhatsApp contact, bio link)
-- Consistent use of heart emojis (💜 - purple heart) as brand signature
+- Consistent use of heart emojis (💙 - purple heart) as brand signature
 - Multi-slide carousel format dominates the feed
 - Portuguese language (Brazil dialect)
 

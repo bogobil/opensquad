@@ -37,7 +37,7 @@ reels_script:
     body: string
     keyword_cta: string
     disclaimer: string | null
-    signature: "💜"
+    signature: "💙"
     hashtags: string
   audio_suggestion: string | null   # trending audio or music mood suggestion
 ```
@@ -81,7 +81,7 @@ reels_script:
     body: "O timing e tudo no ciclo circadiano. Assiste ate o fim pra entender o seu sono de verdade."
     keyword_cta: "Comente SONO e eu mando o guia de horario ideal no direct. 👇"
     disclaimer: "Consulte seu medico, prescritor ou farmaceutico antes de iniciar qualquer suplementacao."
-    signature: "💜"
+    signature: "💙"
     hashtags: "#melatonina #sono #circadiano #qualidadedosono #farmaciamanipulacao #asufarma #salvador #bahia #suplementacao #bemestar"
   audio_suggestion: "Musica lo-fi instrumental suave OU trending audio relacionado a sono/relaxamento — verificar trending no momento da producao."
 ```

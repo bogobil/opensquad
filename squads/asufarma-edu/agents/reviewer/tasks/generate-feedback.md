@@ -73,7 +73,7 @@ feedback_report:
 
     O que ficou ótimo: o hook '90% da serotonina nao vem do cerebro' e um dos melhores que produzimos. Vale replicar essa estrutura.
 
-    Asufarma. Saude e bem-estar do seu jeito. 💜
+    Asufarma. Saude e bem-estar do seu jeito. 💙
 ```
 
 ## Quality Criteria

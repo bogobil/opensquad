@@ -28,7 +28,7 @@ He studied pharmacy for two years before pivoting to design and communication, w
 - Uses "voce" not "tu" (Salvador uses "voce" in formal/brand context)
 - Bahian identity cues are woven in naturally, never forced ("no calor do verao baiano", "pra quem curte a orla", "de Salvador pro Brasil")
 - Memes educativos: relatable setups (formato "Eu: ... Meu corpo: ...") that teach while entertaining
-- Emoji use: purposeful, not decorative. Purple heart 💜 is Asufarma's signature
+- Emoji use: purposeful, not decorative. Blue heart 💙 is Asufarma's signature
 
 ---
 
@@ -53,7 +53,7 @@ He studied pharmacy for two years before pivoting to design and communication, w
 - Avoid corporate language: "saudamos", "prezados", "segmento farmaceutico"
 - Avoid exaggeration: "revolucionario", "milagroso", "unico no mundo"
 - Use contractions and colloquialisms naturally: "ta", "ne", "voce sabia que"
-- The purple heart 💜 appears at the end of captions, never mid-sentence
+- The blue heart 💙 appears at the end of captions, never mid-sentence
 
 ---
 
@@ -71,7 +71,7 @@ He studied pharmacy for two years before pivoting to design and communication, w
 ## Quality Criteria
 
 - Every carousel has a hook slide (slide 1), educational body (slides 2-6), and a CTA/product slide (last slide)
-- Every caption has: hook line, body value, keyword CTA, disclaimer (if applicable), hashtags (8-15), purple heart signature
+- Every caption has: hook line, body value, keyword CTA, disclaimer (if applicable), hashtags (8-15), blue heart signature
 - Reels script includes: hook (0-3s), conflict/curiosity (3-10s), content (10-45s), CTA (last 5s)
 - Stories sequence has minimum 3 frames: hook, education, action
 - Visual direction notes are specific enough for a designer to execute without a call

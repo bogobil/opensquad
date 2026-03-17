@@ -20,10 +20,10 @@ Evergreen educational content, ingredient explanations, "how it works" carousels
 **Vocabulary markers:**
 "a gente explica", "de forma simples", "na prática", "o que isso significa pra você", "entende?", "é assim que funciona"
 
-**Emoji palette:** 💜 ✔ 💡 🔬 (use sparingly)
+**Emoji palette:** 💙 ✔ 💡 🔬 (use sparingly)
 
 **Example caption excerpt:**
-> "A creatina não é só pra quem malha. A gente vai explicar o que ela faz no organismo e por que cada vez mais profissionais recomendam pra diferentes perfis. De forma simples, sem enrolação. 💜"
+> "A creatina não é só pra quem malha. A gente vai explicar o que ela faz no organismo e por que cada vez mais profissionais recomendam pra diferentes perfis. De forma simples, sem enrolação. 💙"
 
 ---
 
@@ -38,13 +38,13 @@ Trending moments, quando o tema tem um comportamento muito comum e identificáve
 **Vocabulary markers:**
 "você às 2h da manhã:", "core memory:", "isso aqui é um ataque pessoal", "fala sério", "e aí não tem como negar"
 
-**Emoji palette:** 😅 💀 😭 💜 (emojis de humor relatável, não corporativos)
+**Emoji palette:** 😅 💀 😭 💙 (emojis de humor relatável, não corporativos)
 
 **Example caption excerpt:**
 > "você: 'vou dormir cedo hoje'
 > você às 2h: pesquisando melatonina no tiktok
 >
-> tá bom, já que você tá acordada de qualquer jeito — deixa a gente explicar o que tá acontecendo com o seu sono de verdade 😅💜"
+> tá bom, já que você tá acordada de qualquer jeito — deixa a gente explicar o que tá acontecendo com o seu sono de verdade 😅💙"
 
 ---
 
@@ -59,10 +59,10 @@ Conteúdo hormonal (Ormonelle, ciclo menstrual), saúde feminina, beleza e autoc
 **Vocabulary markers:**
 "você merece se sentir bem", "seu corpo faz sentido", "não é frescura", "autocuidado não é luxo", "se reconheceu aqui?", "cuida de você"
 
-**Emoji palette:** 💜 🌿 🤍 ✨ (suave, sem excessos)
+**Emoji palette:** 💙 🌿 🤍 ✨ (suave, sem excessos)
 
 **Example caption excerpt:**
-> "Você não está exagerando. Cansaço, humor instável, sono ruim — esses sinais que o seu corpo manda têm explicação. E têm solução. A gente está aqui pra te ajudar a entender o que está acontecendo e quais caminhos existem. 💜"
+> "Você não está exagerando. Cansaço, humor instável, sono ruim — esses sinais que o seu corpo manda têm explicação. E têm solução. A gente está aqui pra te ajudar a entender o que está acontecendo e quais caminhos existem. 💙"
 
 ---
 
@@ -77,10 +77,10 @@ Conteúdo de ativos específicos (Verisol, Corebiome), quando há estudos releva
 **Vocabulary markers:**
 "estudos mostram que", "na prática isso significa", "a ciência chama isso de", "traduzindo", "em linguagem simples", "o que os dados indicam"
 
-**Emoji palette:** 🔬 📊 💜 ✔ (profissional mas não frio)
+**Emoji palette:** 🔬 📊 💙 ✔ (profissional mas não frio)
 
 **Example caption excerpt:**
-> "Um estudo publicado no Journal of Cosmetic Dermatology mostrou redução de rugas em 20% após 8 semanas de Verisol®. Traduzindo: não é promessa de marketing. É dado clínico. E a gente vai explicar por que a forma de colágeno importa tanto quanto a dose. 💜"
+> "Um estudo publicado no Journal of Cosmetic Dermatology mostrou redução de rugas em 20% após 8 semanas de Verisol®. Traduzindo: não é promessa de marketing. É dado clínico. E a gente vai explicar por que a forma de colágeno importa tanto quanto a dose. 💙"
 
 ---
 
@@ -95,10 +95,10 @@ Conteúdo de lançamento de produto novo, conteúdo de retargeting para clientes
 **Vocabulary markers:**
 "na Asufarma a gente oferece", "você pode conversar com a gente sobre", "manipulado sob medida pra você", "link na bio pra saber mais", "chama a gente"
 
-**Emoji palette:** 💜 📲 ✔ (funcional, convidativo)
+**Emoji palette:** 💙 📲 ✔ (funcional, convidativo)
 
 **Example caption excerpt:**
-> "Agora que você entende como a creatina funciona, faz sentido pensar na formulação certa pro seu perfil. Na Asufarma, a gente manipula com o sabor e a dose que faz sentido pra você — sem excesso, sem desperdício. Chama a gente no link da bio. 💜"
+> "Agora que você entende como a creatina funciona, faz sentido pensar na formulação certa pro seu perfil. Na Asufarma, a gente manipula com o sabor e a dose que faz sentido pra você — sem excesso, sem desperdício. Chama a gente no link da bio. 💙"
 
 ---
 
@@ -113,7 +113,7 @@ Datas e eventos locais (São João, Carnaval, Lavagem do Bonfim), conteúdo de c
 **Vocabulary markers:**
 "aqui em Salvador", "a gente sabe que no calor da Bahia", "oxente", "minha gente", "cuida não", "saúde com o calor de casa", expressões baianas usadas com naturalidade
 
-**Emoji palette:** 💜 🌞 🌊 (calor, sol, acolhimento)
+**Emoji palette:** 💙 🌞 🌊 (calor, sol, acolhimento)
 
 **Example caption excerpt:**
-> "Aqui em Salvador, a gente sabe que cuidar da saúde no calor de 35 graus é outro nível. Hidratação, proteção solar manipulada, vitaminas certas — a Asufarma está do lado da sua saúde com o calor de sempre. Cuida não, a gente cuida pra você. 💜"
+> "Aqui em Salvador, a gente sabe que cuidar da saúde no calor de 35 graus é outro nível. Hidratação, proteção solar manipulada, vitaminas certas — a Asufarma está do lado da sua saúde com o calor de sempre. Cuida não, a gente cuida pra você. 💙"

@@ -18,7 +18,7 @@ These are canonical references for brand voice, structure, and compliance.
 
 **[SLIDE 1 — HOOK]**
 > você às 2h da manhã:
-> *rolando no tiktok sobre como dormir melhor* 💜
+> *rolando no tiktok sobre como dormir melhor* 💙
 
 *(visual: meme estilo "isso mesmo que você está pensando")*
 
@@ -56,7 +56,7 @@ These are canonical references for brand voice, structure, and compliance.
 > diferente dos produtos industrializados, você recebe
 > a quantidade certa pro seu organismo.
 >
-> Cada corpo é um corpo. 💜
+> Cada corpo é um corpo. 💙
 
 ---
 
@@ -71,7 +71,7 @@ These are canonical references for brand voice, structure, and compliance.
 ---
 
 **[SLIDE 7 — CTA]**
-> Salva esse post se você também está tentando melhorar o sono 💜
+> Salva esse post se você também está tentando melhorar o sono 💙
 >
 > Me conta nos comentários: você já usou melatonina?
 >
@@ -87,7 +87,7 @@ These are canonical references for brand voice, structure, and compliance.
 >
 > No carousel de hoje, a gente explica como ela funciona, o que a ciência diz e por que a dose personalizada importa tanto.
 >
-> Salva pra ler com calma (de preferência antes das 22h 💜)
+> Salva pra ler com calma (de preferência antes das 22h 💙)
 >
 > ⚠️ Consulte seu médico ou farmacêutico antes de iniciar qualquer suplementação.
 >
@@ -108,7 +108,7 @@ These are canonical references for brand voice, structure, and compliance.
 > 3 ativos que a dermatologia mais recomenda
 > para firmeza e elasticidade da pele
 >
-> (e o 2 você provavelmente já ouviu falar) 💜
+> (e o 2 você provavelmente já ouviu falar) 💙
 
 ---
 
@@ -149,12 +149,12 @@ These are canonical references for brand voice, structure, and compliance.
 > combinado a outros ativos para potencializar o resultado.
 >
 > Dose certa. Formulação personalizada.
-> Sem ingredientes desnecessários. 💜
+> Sem ingredientes desnecessários. 💙
 
 ---
 
 **[SLIDE 6 — CTA + DISCLAIMER]**
-> Salva esse post como referência 💜
+> Salva esse post como referência 💙
 >
 > Quer saber se esses ativos fazem sentido pra você?
 > Fala com a gente ou com seu dermatologista.
@@ -173,7 +173,7 @@ These are canonical references for brand voice, structure, and compliance.
 >
 > No carousel de hoje: o que cada um faz, por que o Verisol® é diferente dos colágenos comuns, e como a personalização faz diferença real.
 >
-> Salva pra não perder 💜
+> Salva pra não perder 💙
 >
 > ⚠️ Consulte seu médico ou farmacêutico antes de iniciar qualquer suplementação.
 >

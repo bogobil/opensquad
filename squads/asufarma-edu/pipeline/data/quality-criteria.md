@@ -37,7 +37,7 @@ Evaluates whether the content sounds like Asufarma: accessible, warm, human, edu
 | 3-4 | Off-brand — either too clinical/corporate or too casual/slang-heavy |
 | 1-2 | Brand voice absent or clearly misaligned |
 
-**Core markers:** roxinho emoji (💜), coloquial-mas-correto, Salvador identity when appropriate, empathy over authority
+**Core markers:** coracao azul emoji (💙), coloquial-mas-correto, Salvador identity when appropriate, empathy over authority
 
 ---
 

@@ -53,7 +53,7 @@ Pontue cada critério de 0 a 10. Nota mínima para aprovação por critério: 7.
 - Tom de voz consistente com o escolhido no Step 06
 - Identidade Asufarma presente (linguagem baiana, calor humano, empoderamento feminino)
 - Produto integrado naturalmente, não imposto
-- Emoji 💜 e identidade visual corretamente referenciados
+- Emoji 💙 e identidade visual corretamente referenciados
 
 **Critério 5 — Qualidade do Pacote Completo (peso: 10%)**
 - Coerência entre carrossel, caption, reel e stories
@@ -170,7 +170,7 @@ O hook do slide 1 é forte — lista de sintomas mais virada ("pode não ser o q
 CTA de keyword no comentário ("comenta MAGNÉSIO") bem executado seguindo o padrão @pharmapele. O conteúdo tem três razões claras para salvar: (1) é referência sobre formas de magnésio, (2) tem dado acionável sobre TPM, (3) tem CTA de produto para consultar na próxima TPM. Excelente.
 
 ### Alinhamento de Marca e Tom — Nota 8
-Tom "amiga farmacêutica" consistente do slide 1 ao 10. Uso de "a gente" no slide 2 bem executado. O emoji 💜 aparece nos momentos certos. Produto integrado naturalmente no slide 8 — não há ruptura entre conteúdo educativo e menção de produto. Leve melhoria: o slide 10 poderia ter um toque mais pessoal ("cuida de você, viu?" em vez de só o endereço).
+Tom "amiga farmacêutica" consistente do slide 1 ao 10. Uso de "a gente" no slide 2 bem executado. O emoji 💙 aparece nos momentos certos. Produto integrado naturalmente no slide 8 — não há ruptura entre conteúdo educativo e menção de produto. Leve melhoria: o slide 10 poderia ter um toque mais pessoal ("cuida de você, viu?" em vez de só o endereço).
 
 ### Qualidade do Pacote Completo — Nota 7
 Carrossel e caption coerentes. O Reel está funcional mas o segundo bloco (4-8s) é longo demais para um único ponto — risco de perda de atenção. Stories bem sequenciados, mas o Frame 3 (quiz) poderia ter a resposta revelada no mesmo frame em vez de "no story seguinte" — simplifica a execução.

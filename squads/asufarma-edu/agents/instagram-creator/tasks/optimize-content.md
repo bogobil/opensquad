@@ -15,7 +15,7 @@ output:
 
 1. **Cross-format consistency check.** Ensure the keyword CTA is the same word across feed caption, reels caption, and stories CTA frame (e.g., all use "SONO", not "SONO" in feed and "DORMIR" in stories). Verify the product name is identical in all three formats. Confirm the disclaimer is present in all non-dermocosmetico formats. Flag any inconsistency and fix it.
 
-2. **Caption and copy polish.** Re-read every caption with fresh eyes. Apply final polish: (a) does the hook still feel fresh or did it become generic during drafting? (b) are there any filler words that can be cut? (c) is the hashtag block optimized — no duplicate hashtags across formats, mix of reach and niche tags? (d) is the purple heart 💜 signature present and in the right position (end of copy, before hashtags)? (e) character count verified and under 2200?
+2. **Caption and copy polish.** Re-read every caption with fresh eyes. Apply final polish: (a) does the hook still feel fresh or did it become generic during drafting? (b) are there any filler words that can be cut? (c) is the hashtag block optimized — no duplicate hashtags across formats, mix of reach and niche tags? (d) is the blue heart 💙 signature present and in the right position (end of copy, before hashtags)? (e) character count verified and under 2200?
 
 3. **Apply reviewer feedback if present.** If `reviewer_feedback` is provided (from a previous Vera review), process each P2 and P3 item systematically. Note each change made and confirm the P1 items were resolved (P1 fixes are mandatory and block delivery). Deliver a change log alongside the optimized package.
 
@@ -66,7 +66,7 @@ optimized_content_package:
       body: "Ela vem do intestino. E quando o microbioma ta desequilibrado, o humor desequilibra junto..."
       keyword_cta: "Comente INTESTINO aqui embaixo e eu mando mais informacoes no seu direct. 👇"
       disclaimer: "Consulte seu medico, prescritor ou farmaceutico antes de iniciar qualquer suplementacao."
-      signature: "💜"
+      signature: "💙"
       hashtags: "#saude #bemestar #microbioma #intestino #ansiedade #saudemental #farmaciamanipulacao #corebiome #salvador #bahia #soteropolitana #asufarma #saudebahia"
     char_count: 821
   reels_script: {...}

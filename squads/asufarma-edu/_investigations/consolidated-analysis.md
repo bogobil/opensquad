@@ -23,7 +23,7 @@ Total contents extracted: 8 (5 @asufarma + 3 @pharmapele)
 - Tom empatico e acessivel em ambos: "Voce merece...", "Seu corpo pede atencao..."
 - Disclaimers obrigatorios presentes: "Consulte seu prescritor", "Consulte seu nutricionista"
 - Vocabulario tecnico traduzido para leigo: nomes de ativos seguidos de explicacao simples
-- Emojis como marcadores visuais (Asufarma: 💜 roxo / PharmaPele: 🟢 verde)
+- Emojis como marcadores visuais (Asufarma: 💙 azul / PharmaPele: 🟢 verde)
 
 ### Engagement Drivers
 - CTA de keyword nos comentarios: PharmaPele domina com "Comenta [PALAVRA]" gerando dezenas de comentarios
@@ -61,7 +61,7 @@ Total contents extracted: 8 (5 @asufarma + 3 @pharmapele)
 - **Vocabulary to adopt**: "manipulado", "formula personalizada", "dose certa", "seu corpo pede", "voce merece", "do seu jeito"
 - **Vocabulary to avoid**: Jargao tecnico sem traducao, linguagem de vendas agressiva, promessas terapeuticas diretas
 - **Sentence style**: Frases curtas. Uma ideia por paragrafo. Espacamento generoso.
-- **Emoji and formatting**: Usar emoji roxo (💜) como marca Asufarma. Bullet points com emoji. Nao abusar.
+- **Emoji and formatting**: Usar emoji azul (💙) como marca Asufarma. Bullet points com emoji. Nao abusar.
 
 ### Hook Templates
 1. **Normalizacao**: "[Sintoma comum]. Nao e frescura. Nao e exagero. Nao e 'coisa da sua cabeca'." Source: @asufarma, menopausa

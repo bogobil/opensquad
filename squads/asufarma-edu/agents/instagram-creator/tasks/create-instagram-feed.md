@@ -13,7 +13,7 @@ output:
 
 1. **Build the slide sequence.** Structure the carousel as: Slide 1 (hook — one bold statement, zero context), Slides 2-5 (body — one idea per slide, max 2 short sentences + visual direction), Slide 6-7 (product introduction — benefit-first, then soft CTA), Last slide (CTA slide — keyword trigger + disclaimer if required). Total: 6-8 slides. Each slide has copy and a visual direction note in Asufarma brand palette.
 
-2. **Write the caption.** Open with the hook (same as Slide 1 or a variation). Add 3-5 lines of body context that expand on the topic with warmth and specificity. Write the keyword CTA ("Comente [PALAVRA] e eu mando no direct"). Add the disclaimer if required (non-dermocosmetico). Close with purple heart 💜 and hashtag block.
+2. **Write the caption.** Open with the hook (same as Slide 1 or a variation). Add 3-5 lines of body context that expand on the topic with warmth and specificity. Write the keyword CTA ("Comente [PALAVRA] e eu mando no direct"). Add the disclaimer if required (non-dermocosmetico). Close with blue heart 💙 and hashtag block.
 
 3. **Hashtag strategy.** Include 12-15 hashtags in two tiers: (a) broad audience reach (#saude #bemestar #suplementacao #farmaciamanipulacao), (b) Salvador/Bahia localization (#salvador #bahia #soteropolitana #saudebahia), (c) topic-specific (#melatonina #sono #circadiano — match the content). Never repeat hashtags from the previous post.
 
@@ -35,7 +35,7 @@ feed_carousel:
     body: string
     keyword_cta: string             # "Comente [PALAVRA] e eu mando no direct"
     disclaimer: string | null
-    signature: "💜"
+    signature: "💙"
     hashtags: string                # space-separated hashtag block
   char_count: number                # total caption character count (must be <= 2200)
 ```
@@ -73,7 +73,7 @@ feed_carousel:
       visual_direction: "Foto ou render do produto Corebiome. Fundo bege. Nome do produto em destaque em azul marinho. Badge 'Manipulacao Personalizada'."
 
     - slide_number: 7
-      copy: "Quer saber se o Corebiome e pra voce? Comente INTESTINO no direct. 💜"
+      copy: "Quer saber se o Corebiome e pra voce? Comente INTESTINO no direct. 💙"
       visual_direction: "CTA slide. Fundo azul marinho. Texto turquesa e branco. Logo Asufarma centralizado. Endereco das unidades no rodape (Center Lapa, SSA Shopping, Madison Plaza)."
 
   caption:
@@ -81,7 +81,7 @@ feed_carousel:
     body: "Ela vem do intestino. E quando o microbioma ta desequilibrado, o humor desequilibra junto — ansiedade, irritabilidade, aquele cansaco mental que nao passa.\n\nIsso tem nome: eixo intestino-cerebro. E tem solucao.\n\nO Corebiome e um postbiotico manipulado na Asufarma que apoia o equilibrio do seu microbioma de forma personalizada. Porque saude e bem-estar do seu jeito. ✨"
     keyword_cta: "Comente INTESTINO aqui embaixo e eu mando mais informacoes no seu direct. 👇"
     disclaimer: "Consulte seu medico, prescritor ou farmaceutico antes de iniciar qualquer suplementacao."
-    signature: "💜"
+    signature: "💙"
     hashtags: "#saude #bemestar #microbioma #intestino #probioticos #ansiedade #saudemental #farmaciamanipulacao #manipulacao #corebiome #salvador #bahia #soteropolitana #asufarma #saudebahia"
   char_count: 847
 ```
