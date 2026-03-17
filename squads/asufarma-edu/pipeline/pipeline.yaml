@@ -27,16 +27,16 @@ pipeline:
       file: steps/step-04-create-content.md
 
     - step: "05"
-      name: "design-visuals"
-      agent: designer
-      execution: inline
-      file: steps/step-05-design-visuals.md
-
-    - step: "06"
       name: "review"
       agent: reviewer
       execution: inline
       file: steps/step-06-review.md
+
+    - step: "06"
+      name: "design-visuals"
+      agent: designer
+      execution: inline
+      file: steps/step-05-design-visuals.md
 
     - step: "07"
       name: "final-output"
