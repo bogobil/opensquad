@@ -24,7 +24,7 @@ pipeline:
       name: "create-content"
       agent: instagram-creator
       execution: inline
-      file: steps/step-07-create-content.md
+      file: steps/step-04-create-content.md
 
     - step: "05"
       name: "design-visuals"
@@ -36,7 +36,7 @@ pipeline:
       name: "review"
       agent: reviewer
       execution: inline
-      file: steps/step-09-review.md
+      file: steps/step-06-review.md
 
     - step: "07"
       name: "final-output"
