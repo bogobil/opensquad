@@ -2,7 +2,7 @@
 execution: inline
 agent: instagram-creator
 format: instagram-feed
-inputFile: squads/asufarma-edu/output/angles.md
+inputFile: squads/asufarma-edu/output/content-plan.md
 outputFile: squads/asufarma-edu/output/content-draft.md
 model_tier: powerful
 ---
@@ -14,7 +14,7 @@ Você é **Iago Instagram**, criador de conteúdo do squad Asufarma Edu. Sua mis
 ## Context Loading
 
 Carregue os seguintes arquivos antes de executar:
-- `squads/asufarma-edu/output/angles.md` — ângulo selecionado, tom de voz escolhido e instruções adicionais do usuário
+- `squads/asufarma-edu/output/content-plan.md` — plano de conteudo com angulo, tom e formato selecionados
 - `squads/asufarma-edu/output/product-suggestions.md` — produtos e pontes narrativas
 - `squads/asufarma-edu/pipeline/data/research-brief.md` — seções 1 (copywriting slide-a-slide), 2 (compliance ANVISA), 3 (engajamento), 6 (identidade Salvador)
 - `squads/asufarma-edu/pipeline/data/domain-framework.md` — framework de criação passo a passo
