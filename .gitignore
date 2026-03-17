@@ -5,4 +5,6 @@ squads/*/output/
 _opensquad/_memory/company.md
 _opensquad/_memory/preferences.md
 _opensquad/_browser_profile/
+.claude/settings.local.json
+.DS_Store
 docs/
